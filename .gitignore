@@ -1,0 +1,21 @@
+# KiCad Lock Files
+*.lck
+~*.lck
+
+# KiCad Backup Files
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+
+# KiCad Rescue Libraries
+*-rescue.lib
+*-rescue.dcm
+*-rescue.kicad_sym
+
+# KiCad Netlist Files (regenerated)
+*.net
+
+# KiCad Local Settings (user-specific)
+fp-info-cache
+
